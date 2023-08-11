@@ -1,0 +1,53 @@
+Chatbot Project
+This project demonstrates the use of the InstructorEmbedding model to create a conversational chatbot. The chatbot processes user questions, identifies the intent, and provides corresponding answers.
+
+Table of Contents
+Overview
+Getting Started
+Prerequisites
+Installation
+Usage
+Training
+Inference
+License
+Acknowledgements
+Overview
+The InstructorEmbedding model generates text embeddings tailored to specific tasks and domains. In this project, it's used to create embeddings for different intents and their corresponding responses. During inference, the chatbot computes embeddings for user questions and matches them to the most similar intent in the dataset.
+
+Getting Started
+Prerequisites
+Python 3.7+
+Pip
+UMAP
+InstructorEmbedding
+Installation
+Clone the repository:
+bash
+Copy code
+git clone <repository-url>
+cd chatbotProject
+Install the required packages:
+Copy code
+pip install -r requirements.txt
+Usage
+Training
+Before using the chatbot, you need to train it on your dataset. The default dataset used is assistant.csv.
+
+Run the training script:
+Copy code
+python train.py
+This script will compute embeddings for each sentence in the dataset and save them in the data/models directory.
+
+Inference
+After training, you can start a conversation with the chatbot:
+
+Copy code
+python inference.py
+Type your questions, and the chatbot will respond. To end the conversation, type exit or bye.
+
+License
+This project is licensed under the MIT License. See LICENSE for more details.
+
+Acknowledgements
+Thanks to the creators of the InstructorEmbedding model for providing such a versatile embedding model.
+UMAP for dimensionality reduction and visualization.

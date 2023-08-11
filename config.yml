@@ -1,0 +1,18 @@
+data:
+  path: "data/assistant.csv"
+
+model:
+  checkpoint: "hkunlp/instructor-large"
+  save_path: "data/models"
+
+
+embedding:
+  instruction: "Represent the chatbot sentence with intent differentiation:"
+
+dimension_reduction:
+  use_pca: true
+  pca_components: 30
+
+tsne:
+  perplexity: 40
+  learning_rate: 250

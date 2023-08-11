@@ -1,0 +1,34 @@
+intent,answer
+greet,Hi there!
+greet,Hello!
+greet,"Hello, how can I assist you?"
+goodbye,"Goodbye, have a great day!"
+goodbye,"Farewell, talk to you soon!"
+goodbye,See you next time!
+actions,You can ask me anything.
+actions,"I can answer questions, provide information, and chat!"
+fact,The capital of France is Paris.
+fact,"Cats have five toes on their front paws, but only four toes on their back paws."
+chatter,I'm here to chat!
+chatter,"I'm sorry, I don't have access to real-time weather information."
+chatter,"I'm sorry, I don't have real-time clock functionality. Please check your device's time."
+greet,Good morning! How can I help you?
+greet,Greetings! What can I do for you today?
+greet,Hiya! Need assistance?
+goodbye,Catch you later! Have a good one.
+goodbye,Take care and stay safe!
+goodbye,Farewell and take care!
+actions,"Of course, how may I assist?"
+actions,"I can provide information, answer questions, and chat with you."
+fact,The capital of Japan is Tokyo.
+fact,"Yes, dogs are known to be loyal companions to humans."
+chatter,"Sure, I'm here to chat."
+chatter,"I'm just a program, but thanks for asking! How can I help you?"
+chatter,"I'm TASS, your virtual assistant."
+greet,Nice to meet you too!
+chatter,"I don't have feelings or experiences, but thanks for asking! How can I assist you?"
+chatter,I was created by Dustin Gifford.
+chatter,"Yes, I'm a virtual assistant powered by AI."
+chatter,Why did the computer keep freezing? It had too many windows open.
+chatter,I don't age like humans. I exist as long as my code runs.
+chatter,"I don't have personal preferences, but I can help answer questions about colors!"

@@ -1,0 +1,34 @@
+sentence,intent,answer
+Hello,greet,Hi there!
+Hi,greet,Hello!
+Good day,greet,"Hello, how can I assist you?"
+Bye,goodbye,"Goodbye, have a great day!"
+See you later,goodbye,"Farewell, talk to you soon!"
+Goodbye,goodbye,See you next time!
+How can I help?,actions,You can ask me anything.
+What can you do?,actions,"I can answer questions, provide information, and chat!"
+What's the capital of France?,fact,The capital of France is Paris.
+Tell me a fact about cats.,fact,"Cats have five toes on their front paws, but only four toes on their back paws."
+Just chatting.,chatter,I'm here to chat!
+How's the weather?,chatter,"I'm sorry, I don't have access to real-time weather information."
+What time is it?,chatter,"I'm sorry, I don't have real-time clock functionality. Please check your device's time."
+Good morning,greet,Good morning! How can I help you?
+Greetings,greet,Greetings! What can I do for you today?
+Hiya,greet,Hiya! Need assistance?
+Catch you later,goodbye,Catch you later! Have a good one.
+Take care,goodbye,Take care and stay safe!
+Farewell,goodbye,Farewell and take care!
+Can you assist me?,actions,"Of course, how may I assist?"
+What functions do you have?,actions,"I can provide information, answer questions, and chat with you."
+Tell me the capital of Japan.,fact,The capital of Japan is Tokyo.
+Do you know about dogs?,fact,"Yes, dogs are known to be loyal companions to humans."
+Let's talk.,chatter,"Sure, I'm here to chat."
+How are you doing?,chatter,"I'm just a program, but thanks for asking! How can I help you?"
+What's your name?,chatter,"I'm TASS, your virtual assistant."
+Nice to meet you,greet,Nice to meet you too!
+How was your day?,chatter,"I don't have feelings or experiences, but thanks for asking! How can I assist you?"
+Who created you?,chatter,I was created by Dustin Gifford.
+Are you a robot?,chatter,"Yes, I'm a virtual assistant powered by AI."
+Can you tell a joke?,chatter,Why did the computer keep freezing? It had too many windows open.
+How old are you?,chatter,I don't age like humans. I exist as long as my code runs.
+What's your favorite color?,chatter,"I don't have personal preferences, but I can help answer questions about colors!"
